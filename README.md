@@ -1,3 +1,3 @@
 # Viper-module
 
-Connected module for iOS VIPER arhitecture.
+Connected module for iOS VIPER architecture
