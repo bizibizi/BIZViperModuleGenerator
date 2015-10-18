@@ -1,4 +1,4 @@
-# Viper-module-generator
+# Viper-module-generator-Obj-C
 
 Generator for VIPER modules.
 iOS, Objective-C.
