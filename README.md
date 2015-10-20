@@ -13,3 +13,5 @@ How yo use
   You can use group rename reature of Xcode. (Fast access cmd+F).
   Example: '##Presenter' -> 'CustomerListPresenter'
 5. Enjoy connected VIPER module
+
+~ 2 minutes to get hooked up module 
