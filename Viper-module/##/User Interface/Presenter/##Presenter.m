@@ -11,7 +11,7 @@
 #import "##Wireframe.h"
 
 
-@interface ##Presenter
+@interface ##Presenter ()
 @end
 
 
