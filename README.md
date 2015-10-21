@@ -14,4 +14,4 @@ How yo use
   Example: '##Presenter' -> 'CustomerListPresenter'
 5. Enjoy connected VIPER module
 
-~ 2 minutes to get hooked up module 
+less then 1 minute to get hooked up module 
