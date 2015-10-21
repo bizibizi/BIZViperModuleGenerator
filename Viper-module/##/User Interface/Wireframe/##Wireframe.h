@@ -11,5 +11,5 @@
 
 
 @interface ##Wireframe : RootWireframe <##ExternalIncoming>
-
+- (void)present##PageFromNVC:(UINavigationController *)nvc;
 @end
