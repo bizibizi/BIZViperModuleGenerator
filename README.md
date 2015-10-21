@@ -10,7 +10,7 @@ How yo use
   Example: '##' -> 'CustomerList'
 3. Add Module to your project (check 'Copy files')
 4. Go throught all added files with Xcode and replace '##' with 'You Module Name'. 
-  You can use group rename reature of Xcode. (Fast access cmd+F).
+  You can use group rename reature of Xcode. (Fast access alt+cmd+F).
   Example: '##Presenter' -> 'CustomerListPresenter'
 5. Enjoy connected VIPER module
 
