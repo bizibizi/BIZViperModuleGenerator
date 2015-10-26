@@ -9,8 +9,9 @@
 #import <Foundation/Foundation.h>
 
 
-@protocol ##ExternalIncoming <NSObject>
+@protocol ##ExternalInput <NSObject>
 @end
 
-@protocol ##ExternalLeading <NSObject>
+
+@protocol ##ExternalData <NSObject>
 @end
