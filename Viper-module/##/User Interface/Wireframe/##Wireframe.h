@@ -10,6 +10,6 @@
 #import "##External.h"
 
 
-@interface ##Wireframe : RootWireframe <##ExternalIncoming>
+@interface ##Wireframe : RootWireframe <##ExternalInput>
 - (void)present##PageFromNVC:(UINavigationController *)nvc;
 @end

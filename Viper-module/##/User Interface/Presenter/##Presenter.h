@@ -14,7 +14,7 @@
 #import "##External.h"
 
 
-@interface ##Presenter : NSObject <##ModuleInterface, ##InteractorOutput, ##ExternalLeading>
+@interface ##Presenter : NSObject <##ModuleInterface, ##InteractorOutput, ##ExternalData>
 @property (nonatomic, strong) ##Wireframe *wireframe;
 @property (nonatomic, weak) UIViewController <##ViewInterface> *userInterface;
 @property (nonatomic, strong) id <##InteractorInput> interactor;
