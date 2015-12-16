@@ -10,7 +10,7 @@ BIZViperModuleGenerator is a pack of files that will helps to create VIPER modul
 # Installation
 
 ### Manually
- - Copy ```#ModuleName#"``` folder to your project 
+ - Copy ```#ModuleName#``` folder to your project 
 
 
 # Usage
@@ -26,7 +26,7 @@ BIZViperModuleGenerator is a pack of files that will helps to create VIPER modul
 - Add that folder to your project
 - Go throught all added files with Xcode and replace ```#ModuleName#``` with name of your Viper module inside every file. 
 You can use group rename feature of Xcode: 
- - Alt + Cmd + F. 
+ - ```Alt``` + ```Cmd``` + ```F``` 
  - All matches will be highlighted. 
  - Click ```All``` button to rename it.
 ![alt tag](https://github.com/bizibizi/BIZViperModuleGenerator/blob/master/group%20rename%20sample.png)
