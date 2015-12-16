@@ -1,5 +1,5 @@
 //
-//  ##ViewInterface.h
+//  #ModuleName#LocalDataManager.h
 //  IgorBiziMineev
 //
 //  Created by IgorBizi@mail.ru on 10/12/15.
@@ -9,6 +9,6 @@
 #import <Foundation/Foundation.h>
 
 
-@protocol ##ViewInterface <NSObject>
+@interface #ModuleName#DataManagerLocal : NSObject
 
 @end

@@ -1,5 +1,5 @@
 //
-//  ##InteractorIO.h
+//  #ModuleName#APIDataManager.h
 //  IgorBiziMineev
 //
 //  Created by IgorBizi@mail.ru on 10/12/15.
@@ -9,9 +9,6 @@
 #import <Foundation/Foundation.h>
 
 
-@protocol ##InteractorInput <NSObject>
-@end
+@interface #ModuleName#DataManagerAPI : NSObject
 
-
-@protocol ##InteractorOutput <NSObject>
 @end
