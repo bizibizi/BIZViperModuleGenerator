@@ -7,8 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "#ModuleName#Protocols.h"
 
 
-@interface #ModuleName#DataManagerAPI : NSObject
+@interface #ModuleName#DataManagerAPI : NSObject <#ModuleName#DataManagerAPIInput>
 
 @end

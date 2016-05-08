@@ -7,8 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "#ModuleName#Protocols.h"
 
 
-@interface #ModuleName#DataManagerLocal : NSObject
+@interface #ModuleName#DataManagerLocal : NSObject <#ModuleName#DataManagerLocalInput>
 
 @end

@@ -9,6 +9,16 @@
 #import <Foundation/Foundation.h>
 
 
+@protocol #ModuleName#DataManagerAPIInput <NSObject>
+
+@end
+
+
+@protocol #ModuleName#DataManagerLocalInput <NSObject>
+
+@end
+
+
 @protocol #ModuleName#InteractorInput <NSObject>
 
 @end
