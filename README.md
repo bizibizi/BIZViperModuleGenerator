@@ -4,7 +4,7 @@
 ![alt tag](https://github.com/bizibizi/BIZViperModuleGenerator/blob/master/Structure.png)
 
 
-BIZViperModuleGenerator is a pack of files that will helps to create VIPER module faster.
+BIZViperModuleGenerator is a pack of files that will help to create VIPER module faster.
 
 
 # Installation
