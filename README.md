@@ -34,6 +34,11 @@ You can use group rename feature of Xcode:
 @interface #ModuleName#Wireframe   --->   @interface MyListWireframe
 ``` 
 
+
+# Sample project
+https://github.com/bizibizi/SlackTeam-VIPER
+
+
 # Contact
 
 Igor Bizi
